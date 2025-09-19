@@ -1,0 +1,1 @@
+Food Ordering System: Built a full-stack food ordering platform using React.js, Django REST Framework, and MySQL. Features include menu browsing, cart, order placement, and real-time delivery tracking. Admin panel enables menu management and order processing. Responsive UI with HTML, CSS, and React.js.
